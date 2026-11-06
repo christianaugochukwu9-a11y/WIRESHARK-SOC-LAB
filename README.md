@@ -1,3 +1,9 @@
+<img width="1080" height="1700" alt="Lab 8 Result - Christiana Joseph Ugochukwu (1)" src="https://github.com/user-attachments/assets/9eb8cb31-847f-4b3e-8739-88d5a6ff01ac" />
+<img width="1080" height="1700" alt="Lab 7 Result - Christiana Joseph Ugochukwu" src="https://github.com/user-attachments/assets/9171aad1-86cf-4752-ab27-d93a24821430" />
+<img width="1080" height="1700" alt="Lab 6 Result - Christiana Joseph Ugochukwu" src="https://github.com/user-attachments/assets/907c429c-abe6-45c4-9c22-129397346945" />
+<img width="1080" height="1700" alt="Lab 5 Result - Christiana Joseph Ugochukwu" src="https://github.com/user-attachments/assets/43320807-a253-4288-a82b-085074406c6c" />
+<img width="1080" height="1700" alt="Lab 4 Result - Christiana Joseph Ugochukwu" src="https://github.com/user-attachments/assets/76b0255b-442f-4b06-b68a-7935423d9d4e" />
+<img width="1080" height="1700" alt="Lab 3 Result - Christiana Joseph Ugochukwu" src="https://github.com/user-attachments/assets/28f0fa02-9239-485b-8c67-c2ca713b24af" />
 # Wireshark SOC Analysis - Internship Week 2 Labs
 
 **Intern:** Christiana Joseph Ugochukwu  
